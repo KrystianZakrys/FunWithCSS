@@ -84,59 +84,59 @@ ul li:hover:nth-child(1) a{
     background: #3b5999;
     color: white;
 }
-ul li:hover:nth-child(1):before a{
-    background: #2b4886;
+ul li:hover:nth-child(1) a:before{
+    background: #2b4886 !important;
 }
-ul li:hover:nth-child(1):after a{
-     background: #4261a2;
+ul li:hover:nth-child(1) a:after{
+     background: #4463a4 !important;
 }
 
 
-ul li:nth-child(2) a{
+ul li:hover:nth-child(2) a{
     background: #e4405f;
         color: white;
 }
-ul li:nth-child(2) a:before{
+ul li:hover:nth-child(2) a:before{
     background: #b92a45;
 }
-ul li:nth-child(2) a:after{
+ul li:hover:nth-child(2) a:after{
      background: #e45771;
 }
 
 
-ul li:nth-child(3) a{
+ul li:hover:nth-child(3) a{
     background: #FFFC00;
         color: white;
 }
-ul li:nth-child(3) a:before{
+ul li:hover:nth-child(3) a:before{
     background: #c5c317;
 }
-ul li:nth-child(3) a:after{
+ul li:hover:nth-child(3) a:after{
      background: #fbf971;
 }
 
 
-ul li:nth-child(4) a{
+ul li:hover:nth-child(4) a{
     background: #0077B5;
         color: white;
 }
-ul li:nth-child(4) a:before{
+ul li:hover:nth-child(4) a:before{
     background: #2b4886;
 }
-ul li:nth-child(4) a:after{
+ul li:hover:nth-child(4) a:after{
      background: #4261a2;
 }
 
 
-ul li:nth-child(5) a{
+ul li:hover:nth-child(5) a{
     background: #cd201f;
         color: white;
 }
-ul li:nth-child(5) a:before{
-    background: #2b4886;
+ul li:hover:nth-child(5) a:before{
+    background: #aa201f;
 }
-ul li:nth-child(5) a:after{
-     background: #4261a2;
+ul li:hover:nth-child(5) a:after{
+     background: #ff201f;
 }
 /*
 ul li:nth-child(6) a{
